@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <!--
 **y8mi/y8mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
