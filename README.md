@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text="y8mi's github" &fontSize=90" />
 
 <div align ="center">
   
