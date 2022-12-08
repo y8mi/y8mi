@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=y8mi's github &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=y8mi's github &fontSize=90" />
 
 <div align ="center">
   
@@ -19,7 +19,7 @@
   
   
   <img src="https://github-readme-stats.vercel.app/api?username=y8mi&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8mi@naver.com&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8mi@naver.com&layout=compact"><br><br><br><br>
  
   
 </div>
