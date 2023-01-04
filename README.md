@@ -18,7 +18,6 @@
   
   
   <img src="https://github-readme-stats.vercel.app/api?username=y8mi&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y8mi@naver.com&layout=compact"><br><br><br><br>
  
   
 </div>
